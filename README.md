@@ -14,9 +14,13 @@ A wide area network is a telecommunications network that extends over a large ge
 
 ![Network](./docs/assets/images/network.jpg)
 
+---
+
 ## Internet
 
 The **Internet** is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices.
+
+---
 
 ## IP
 
@@ -24,11 +28,15 @@ The **Internet Protocol (IP)** is the principal communications protocol in the I
 
 ![IP](./docs/assets/images/ipv4.png)
 
+---
+
 ## DNS
 
 The **Domain Name System (DNS)** is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network.
 
 ![DNS](./docs/assets/images/dns.png)
+
+---
 
 ## Port
 
@@ -44,11 +52,15 @@ In computer networking, a **port** is a communication endpoint.
 
 ![HTTP and HTTPS](./docs/assets/images/http-vs-https.svg)
 
+---
+
 ## Browser / User agent
 
 A **web browser / user agent** is a software application for accessing information on the World Wide Web. When a user requests a web page from a particular website, the web browser retrieves the necessary content from a web server and then displays the page on the screen.
 
-![Browser](./docs/assets/images/browser.jpg)
+**Browser knows HTML, CSS, JavaScript and Webassembly.**
+
+---
 
 ## HTML
 
@@ -57,9 +69,10 @@ A **web browser / user agent** is a software application for accessing informati
 > HTML Element
 ![HTML Element](./docs/assets/images/html-element.png)
 
-
 > HTML Attribute
 ![HTML Attribute](./docs/assets/images/html-attribute.png)
+
+---
 
 ## CSS
 
@@ -68,7 +81,127 @@ A **web browser / user agent** is a software application for accessing informati
 >CSS declaration
 ![CSS declaration](./docs/assets/images/css-declaration.png)
 
+---
 
 ## JavaScript
 
 **JavaScript (JS)** is a programming language. Alongside HTML and CSS, JavaScript is one of the core technologies of the World Wide Web. JavaScript enables interactive web pages and is an essential part of web applications. The vast majority of websites use it for client-side page behavior.
+
+---
+
+## Webassembly
+
+**WebAssembly** is a new type of code that can be run in modern web browsers and provides new features and major gains in performance. It is not primarily intended to be written by hand, rather it is designed to be an effective compilation target for low-level source languages like C, C++, Rust, etc.
+
+---
+
+## All Ref Links
+
+1. [HTML basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+2. [CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+3. [CSS Flow Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout)
+4. [Display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+5. [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+6. [Picture](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
+7. [https://css-tricks.com/responsive-images-css/](https://css-tricks.com/responsive-images-css/)
+8. [Squoosh - PNG/JPG/JPEG to WEBP](https://squoosh.app/)
+
+---
+
+## 03/04/2020
+
+### Files worked on 03/04/2020
+
+1. box-model.html page
+2. basic.html page
+
+### Concepts cover on 03/04/2020
+
+* HTML basics
+* CSS basics
+* Heading tags - h1, h2, h3, h4, h5 and h6
+* p tag
+* ol tag
+* ul tag
+* li tag
+* a tag
+* image
+* font
+* text-shadow
+* Box model - padding, margin, border
+* CSS Selector - element, id, class, pseudo-class
+
+### Ref Links on 03/04/2020
+
+1. [HTML basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+2. [CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+
+---
+
+## 04/04/2020
+
+### Files worked on 04/04/2020
+
+1. stay-safe.html page
+
+### Concepts cover on 04/04/2020
+
+* Box Shadow
+
+### Ref Links on 04/04/2020
+
+1. [Box Shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
+
+---
+
+## 05/04/2020
+
+### Files worked on 05/04/2020
+
+1. stay-safe.html
+
+### Concepts cover on 05/04/2020
+
+* HTML and CSS mental models.
+
+---
+
+## 06/04/2020
+
+### Concepts cover on 06/04/2020
+
+* CSS Flow Layout
+* Display - Block, Inline
+
+### Ref Links on 06/04/2020
+
+1. [CSS Flow Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout)
+2. [Display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+
+---
+
+## 07/04/2020
+
+### Files worked on 07/04/2020
+
+1. src-set.html
+
+### Concepts cover on 07/04/2020
+
+* Responsive images
+* Picture tag
+* Source set (src-set)
+
+1. 1,92,233 bytes jpg (3X) 1,01,586 bytes webp
+2. 54,164 bytes jpg (2X) 34,414 bytes webp
+3. 19,154 bytes jpg (1X) 12,102 bytes webp
+
+>We have save 1,80,131 bytes (18KB Approx*) for each user who is using out website, We should be proud of. We are saving worlds internet bandwidth!
+Happy Coding!
+
+### Ref Links
+
+1. [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+2. [Picture](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
+3. [https://css-tricks.com/responsive-images-css/](https://css-tricks.com/responsive-images-css/)
+4. [Squoosh - PNG/JPG/JPEG to WEBP](https://squoosh.app/)
