@@ -18,8 +18,6 @@ A wide area network is a telecommunications network that extends over a large ge
 
 The **Internet** is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices.
 
-![Internet](./docs/assets/images/internet.jpg)
-
 ## IP
 
 The **Internet Protocol (IP)** is the principal communications protocol in the Internet protocol suite for communicating across network boundaries.
@@ -56,8 +54,6 @@ A **web browser / user agent** is a software application for accessing informati
 
 **Hypertext Markup Language (HTML)** is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.
 
-![HTML](./docs/assets/images/html.png)
-
 > HTML Element
 ![HTML Element](./docs/assets/images/html-element.png)
 
@@ -69,8 +65,6 @@ A **web browser / user agent** is a software application for accessing informati
 
 **Cascading Style Sheets (CSS)** is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
 
-![CSS](./docs/assets/images/css.jpg)
-
 >CSS declaration
 ![CSS declaration](./docs/assets/images/css-declaration.png)
 
@@ -78,5 +72,3 @@ A **web browser / user agent** is a software application for accessing informati
 ## JavaScript
 
 **JavaScript (JS)** is a programming language. Alongside HTML and CSS, JavaScript is one of the core technologies of the World Wide Web. JavaScript enables interactive web pages and is an essential part of web applications. The vast majority of websites use it for client-side page behavior.
-
-![JavaScript](./docs/assets/images/js.png)
