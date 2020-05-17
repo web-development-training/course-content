@@ -105,6 +105,12 @@ A **web browser / user agent** is a software application for accessing informati
 6. [Picture](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
 7. [https://css-tricks.com/responsive-images-css/](https://css-tricks.com/responsive-images-css/)
 8. [Squoosh - PNG/JPG/JPEG to WEBP](https://squoosh.app/)
+9. [Img Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
+10. [HTML symantec - YouTube Link](https://www.youtube.com/watch?v=naha1DIHK4E&t=746s)
+11. [Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+12. [Position - YouTube Link](https://www.youtube.com/watch?v=jx5jmI0UlXU)
+13. [Box sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+14. [Background Clip](https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip)
 
 ---
 
@@ -192,16 +198,68 @@ A **web browser / user agent** is a software application for accessing informati
 * Picture tag
 * Source set (src-set)
 
-1. 1,92,233 bytes jpg (3X) 1,01,586 bytes webp
-2. 54,164 bytes jpg (2X) 34,414 bytes webp
-3. 19,154 bytes jpg (1X) 12,102 bytes webp
-
->We have save 1,80,131 bytes (18KB Approx*) for each user who is using out website, We should be proud of. We are saving worlds internet bandwidth!
-Happy Coding!
-
-### Ref Links
+### Ref Links on 07/04/2020
 
 1. [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 2. [Picture](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
 3. [https://css-tricks.com/responsive-images-css/](https://css-tricks.com/responsive-images-css/)
 4. [Squoosh - PNG/JPG/JPEG to WEBP](https://squoosh.app/)
+
+### Note
+
+1. 1,92,233 bytes jpg (3X) 1,01,586 bytes webp
+2. 54,164 bytes jpg (2X) 34,414 bytes webp
+3. 19,154 bytes jpg (1X) 12,102 bytes webp
+
+>We have save 1,80,131 bytes (18KB Approx*) for each user who is using out website, We should be proud of. We are saving worlds internet bandwidth! Happy Coding!
+
+---
+
+## 08/04/2020
+
+### Files worked on 08/04/2020
+
+1. img.html page
+
+### Concepts cover on 08/04/2020
+
+* Img tag
+
+### Ref Links on 08/04/2020
+
+1. [Img Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
+
+---
+
+## 09/04/2020
+
+### Concepts cover on 09/04/2020
+
+* HTML symantec
+* Position
+
+### Ref Links on 09/04/2020
+
+1. [HTML symantec - YouTube Link](https://www.youtube.com/watch?v=naha1DIHK4E&t=746s)
+2. [Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+3. [Position - YouTube Link](https://www.youtube.com/watch?v=jx5jmI0UlXU)
+
+---
+
+## 10/04/2020
+
+### Files worked on 10/04/2020
+
+1. background-clip.html
+2. box-sizing.html
+
+### Concepts cover on 10/04/2020
+
+* HTML symantec
+* Position
+
+### Ref Links on 10/04/2020
+
+1. [Box sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+2. [Background Clip](https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip)
+
