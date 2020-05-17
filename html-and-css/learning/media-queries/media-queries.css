@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+
+section {
+  text-align: center;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+p {
+  font-size: 30px;
+}
+
+@media screen and (max-width: 1024px) {
+  h1 {
+    font-size: 40px;
+  }
+
+  p {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 30px;
+  }
+
+  p {
+    font-size: 15px;
+  }
+}

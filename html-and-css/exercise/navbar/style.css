@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --nav-bg-color: #fce4ec;
+  --nav-text-color: #e6759b;
+  --nav-text-active-color: #e91e63;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-image: url(http://emese.one/img/girl-headset.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+nav {
+  height: 70px;
+  background-color: var(--nav-bg-color);
+  padding: 0 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.title {
+  margin: 0;
+  color: var(--nav-text-color);
+  font-weight: 100;
+}
+
+.menus {
+  width: 40%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu-item {
+  margin: 0;
+  font-size: 1.3rem;
+}
+
+.menu-item:hover a {
+  background: #f48fb1;
+  color: #fff;
+}
+
+.menu-item > a {
+  padding: 10px;
+  color: var(--nav-text-color);
+  text-decoration: none;
+}

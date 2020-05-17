@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      body {
+        margin: 0;
+        font-size: 20px;
+      }
+
+      .super-parent {
+        padding: 100px;
+        margin: 100px;
+        height: calc(100vh - 400px);
+        background-color: yellowgreen;
+      }
+      section {
+        height: calc(100vh - 400px);
+        background-color: skyblue;
+        padding: 100px;
+        position: relative;
+      }
+      .child-one {
+        background-color: slateblue;
+        position: absolute;
+        top: 0px;
+      }
+      .child-two {
+        background-color: snow;
+      }
+      .child-three {
+        background-color: thistle;
+      }
+      .child-four {
+        background-color: tomato;
+      }
+      .child {
+        height: 50px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="super-parent">
+      <section>
+        Parent
+        <div class="child child-one">child one</div>
+        <div class="child child-two">child two</div>
+        <div class="child child-three">child three</div>
+        <div class="child child-four">child four</div>
+      </section>
+    </div>
+  </body>
+</html>

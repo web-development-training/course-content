@@ -1,0 +1,27 @@
+Later - https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors
+Later - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files
+
+Image Crop/Convert tool - https://squoosh.app/
+
+Responsive images : https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
+Picture - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture
+
+font - https://fonts.google.com/
+img - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
+
+
+border-style - https://developer.mozilla.org/en-US/docs/Web/CSS/border-style
+cursor - https://developer.mozilla.org/en-US/docs/Web/CSS/cursor
+Pseudo-classes - https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes - sudo-class.html - nth-sudo-class.html
+CSS Selectors - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
+box-sizing - https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing - box-sizing.html
+background-clip - https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip - background-clip.html
+
+html symantec - https://www.youtube.com/watch?v=naha1DIHK4E
+position - https://developer.mozilla.org/en-US/docs/Web/CSS/position
+Position  - https://www.youtube.com/watch?v=jx5jmI0UlXU
+CSS Units - em and rem - css-units - Ref - https://www.youtube.com/watch?v=fi81bovqxXI
+
+Flex - https://www.youtube.com/watch?v=qZv-rNx0jEA
+Responsive Design & Media Queries - https://www.youtube.com/watch?v=na-X_SM8vg0
+Font Awesome Icons - https://fontawesome.com/v4.7.0/icons/

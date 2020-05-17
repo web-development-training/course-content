@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# Windows
+desktop.ini
+
+# OS X
+.DS_Store
+.DS_store
+
+.vscode/

@@ -1,0 +1,355 @@
+Internet -> IP -> DNS 
+
+HTTP -> 80 PORT
+HTTPS -> 443 PORT
+
+
+HTML
+CSS
+JavaScript
+
+Web Assembly - C, C++, Rust etc.
+
+
+vnoit.com 
+www.vnoit.com 
+
+--------------------------------------------------------------------------
+
+
+
+03/04/2020
+HTML basics - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
+CSS basics - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
+
+box-model.html page
+basic.html page
+
+heading tags
+p tag
+ol tag
+ul tag
+li tag
+
+a tag
+image
+style - element, id, class, pseudo-class
+font
+text-shadow
+box-model - padding, margin, border
+
+
+--------------------------------------------------------------------------
+
+
+04/04/2020
+
+stay-safe.html page
+
+box-shadow 
+
+
+--------------------------------------------------------------------------
+
+
+05/04/2020
+
+Mental model with stay-safe.html page
+
+
+
+--------------------------------------------------------------------------
+
+
+
+06/04/2020
+
+CSS Flow Layout - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout
+block, inline - https://developer.mozilla.org/en-US/docs/Web/CSS/display
+
+
+--------------------------------------------------------------------------
+
+
+
+07/04/2020
+
+source set (src-set) with src-set.html page
+
+NOTE: 
+1,92,233 bytes jpg (3X) 1,01,586 bytes webp
+54,164 bytes jpg (2X) 34,414 bytes webp
+19,154 bytes jpg (1X) 12,102 bytes webp
+
+We have save 1,80,131 bytes (18KB Approx*) for each user who is using out website, We should be proud of.
+We are saving worlds internet bandwidth!
+Happy Coding!
+
+Responsive images : https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
+Picture - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture
+https://css-tricks.com/responsive-images-css/
+
+
+--------------------------------------------------------------------------
+
+
+08/04/2020
+
+img tag - img.html page
+
+img - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
+
+
+--------------------------------------------------------------------------
+
+
+
+09/04/2020
+
+html symantec - https://www.youtube.com/watch?v=naha1DIHK4E&t=746s
+position - https://developer.mozilla.org/en-US/docs/Web/CSS/position
+Position  - https://www.youtube.com/watch?v=jx5jmI0UlXU
+
+--------------------------------------------------------------------------
+
+
+10/04/2020
+
+display - inline-block - display.html
+box-sizing - https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing - box-sizing.html
+background-clip - https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip - background-clip.html
+
+
+--------------------------------------------------------------------------
+
+
+11/04/2020
+
+border-style - https://developer.mozilla.org/en-US/docs/Web/CSS/border-style
+cursor - https://developer.mozilla.org/en-US/docs/Web/CSS/cursor
+Pseudo-classes - https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes - sudo-class.html - nth-sudo-class.html
+
+:active
+:hover
+:visited
+:first-of-type
+:last-of-type
+
+:nth-child()
+:nth-last-child()
+(odd, even, 4, 4n)
+
+new page design  - microsoft folder
+
+--------------------------------------------------------------------------
+
+
+11/04/2020
+
+CSS Selectors - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
+
+
+--------------------------------------------------------------------------
+
+12/02/2020
+
+Microsoft pages design
+
+
+--------------------------------------------------------------------------
+
+13/02/2020
+
+Microsoft pages design
+
+
+--------------------------------------------------------------------------
+
+
+14/02/2020
+
+NPM, Firebase, Caching, PageSpeed and Deployment (for Microsoft pages design)
+
+
+--------------------------------------------------------------------------
+
+15/02/2020
+
+NPM Script, Build, HTML minify and CSS minify (for Microsoft pages design)
+
+--------------------------------------------------------------------------
+
+16/02/2020
+
+Float, Form basics
+
+--------------------------------------------------------------------------
+
+17/02/2020
+
+SVG, Form and form design
+
+font - https://fonts.google.com/
+
+page - form-design.html, form-basics.html, input.html
+
+
+18/02/2020
+
+CSS Variables 
+Theme switching
+
+--------------------------------------------------------------------------
+
+19/02/2020
+
+Form - Action(URL), Method
+
+
+
+20/02/2020
+
+No Class - Not feeling well
+
+--------------------------------------------------------------------------
+
+
+21/02/2020
+
+page form-design.html 
+
+Descendant combinator Selector
+Selector list Selector
+Universal selector
+Input  - radio, checkbox, submit
+select
+
+
+--------------------------------------------------------------------------
+
+22/02/2020
+
+
+CSS Units - em and rem - css-units (folder) - Ref - https://www.youtube.com/watch?v=fi81bovqxXI&t=1254s
+width 100% vs 100vw
+
+
+root-universal-selector.html
+What is the difference between * and :root functionalities?
+https://teamtreehouse.com/community/what-is-the-difference-between-and-root-functionalities
+
+--------------------------------------------------------------------------
+
+23/02/2020
+
+em - other then font size - em.html
+background image - bg-image.html
+table - table.html
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr
+
+
+Video and audio
+
+
+--------------------------------------------------------------------------
+
+24/02/2020
+
+Flex - https://www.youtube.com/watch?v=qZv-rNx0jEA&t=188s
+flex folder
+
+--------------------------------------------------------------------------
+
+25/02/2020 & 26/02/2020
+
+Internet problem 
+
+--------------------------------------------------------------------------
+
+27/02/2020
+
+Responsive Design & Media Queries - https://www.youtube.com/watch?v=na-X_SM8vg0&t=241s
+Observing task - https://codepen.io/machal/pen/aCBAr
+Media Queries - media-queries-v2
+
+--------------------------------------------------------------------------
+
+28/02/2020
+
+Media Queries with microsoft page
+
+--------------------------------------------------------------------------
+
+
+28/02/2020
+
+Code review
+
+--------------------------------------------------------------------------
+
+01/05/2020
+
+navbar - (folder) exercise/navbar
+Practices - https://codepen.io/EmeseNagy/pen/abvWzJJ
+
+
+--------------------------------------------------------------------------
+
+02/05/2020
+
+Portfolio - http://slimhamdi.net/istanbul/demos/index-video-light.html
+Portfolio - (folder) exercise/portfolio
+
+--------------------------------------------------------------------------
+
+11/05/2020
+
+Animation - Transition
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/transition
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
+https://www.youtube.com/watch?v=Nloq6uzF8RQ
+
+--------------------------------------------------------------------------
+
+
+12/05/2020
+
+Animation
+
+
+keyframes - https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes
+CSS animations - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations
+
+Animation - https://www.youtube.com/watch?v=zHUpx90NerM
+
+
+box-shadow - /* offset-x | offset-y | blur-radius | spread-radius | color */
+box-shadow - https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow
+
+
+Recording Button - https://codepen.io/aeewhite/pen/BjzbOL
+
+
+Folder path => /html-and-css/learning/animation, /html-and-css/learning/recording-button
+
+
+--------------------------------------------------------------------------
+
+13/05/2020
+
+
+SVG
+
+SVG - https://developer.mozilla.org/en-US/docs/Web/SVG
+
+Folder path => /SVG/simple.svg
+
+
+===========================================================================
+Daily Observing task (Code pen link) and explaining it and watch one yt video (colt) and explain
+===========================================================================

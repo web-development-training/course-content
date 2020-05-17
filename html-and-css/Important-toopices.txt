@@ -1,0 +1,30 @@
+HTML
+---------------------------------
+
+form
+// table - 23rd 04 2020
+// multimedia - Audio, Video - 23rd 04 2020
+
+
+=================================
+
+
+CSS
+---------------------------------
+box model
+display
+position 
+fonts
+transform: translateY(-50%);
+// flex - 24th 04 2020, 25th 04 2020
+// media query best practices - 26th 04 2020, 27th 04 2020
+// animations - 28th 04 2020
+// grid - No for now
+
+:before
+:after
+=================================
+
+browser compatibility
+lighthouse
+testing

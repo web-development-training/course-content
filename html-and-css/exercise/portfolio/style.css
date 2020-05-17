@@ -1,0 +1,95 @@
+:root {
+  --introduction-bg-color: rgba(0, 0, 0, 0.6);
+  --introduction-content-color: #ffffff;
+  --primary-color: #de5246;
+  --gray: gray;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button {
+  cursor: pointer;
+}
+
+body {
+  background-image: url('./bg-image.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+}
+
+.introduction {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: var(--introduction-bg-color);
+}
+
+.profile-img {
+  width: 500px;
+}
+
+.introduction-content {
+  width: 50%;
+  color: var(--introduction-content-color);
+}
+
+.greeting {
+  text-transform: uppercase;
+  font-size: 1.3rem;
+}
+
+.title {
+  text-transform: uppercase;
+  font-size: 3rem;
+  margin: 10px 0;
+}
+
+.title > span {
+  color: var(--primary-color);
+}
+
+.desc {
+  margin: 10px 0;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  letter-spacing: 2;
+  margin-bottom: 20px;
+}
+
+.introduction-content > button {
+  padding: 12px;
+  font-size: 1rem;
+  min-width: 200px;
+  text-transform: uppercase;
+  border-radius: 50px;
+}
+
+.about-me {
+  color: var(--introduction-content-color);
+  background-color: var(--primary-color);
+  border: 1px solid var(--primary-color);
+  margin-right: 30px;
+}
+
+.about-me:hover {
+  background-color: var(--gray);
+  border: 1px solid var(--gray);
+}
+
+.about-mocha {
+  color: var(--primary-color);
+  background-color: transparent;
+  border: 1px solid var(--primary-color);
+}
+
+.about-mocha:hover {
+  color: var(--introduction-content-color);
+  background-color: var(--primary-color);
+}
