@@ -14,7 +14,7 @@ git checkout:       To switch from one branch to another.
 
 git branch <branchname>:       It creates a new branch with the specified branch name.
 
-git checkout -be:   Creates a new branch and also switches to it.
+git checkout -b:   Creates a new branch and also switches to it.
 git merge:          Merges the specified branch history into the current branch.
 git push:           It sends the commited changes of the branch to the repository.
 git pull:           It fetches and merges the changes from the server to the current directory.
