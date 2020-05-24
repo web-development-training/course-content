@@ -1,4 +1,4 @@
-Internet -> IP -> DNS 
+Internet -> IP -> DNS
 
 HTTP -> 80 PORT
 HTTPS -> 443 PORT
@@ -11,8 +11,8 @@ JavaScript
 Web Assembly - C, C++, Rust etc.
 
 
-vnoit.com 
-www.vnoit.com 
+vnoit.com
+www.vnoit.com
 
 --------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ box-model - padding, margin, border
 
 stay-safe.html page
 
-box-shadow 
+box-shadow
 
 
 --------------------------------------------------------------------------
@@ -76,7 +76,7 @@ block, inline - https://developer.mozilla.org/en-US/docs/Web/CSS/display
 
 source set (src-set) with src-set.html page
 
-NOTE: 
+NOTE:
 1,92,233 bytes jpg (3X) 1,01,586 bytes webp
 54,164 bytes jpg (2X) 34,414 bytes webp
 19,154 bytes jpg (1X) 12,102 bytes webp
@@ -196,7 +196,7 @@ page - form-design.html, form-basics.html, input.html
 
 18/02/2020
 
-CSS Variables 
+CSS Variables
 Theme switching
 
 --------------------------------------------------------------------------
@@ -216,7 +216,7 @@ No Class - Not feeling well
 
 21/02/2020
 
-page form-design.html 
+page form-design.html
 
 Descendant combinator Selector
 Selector list Selector
@@ -266,7 +266,7 @@ flex folder
 
 25/02/2020 & 26/02/2020
 
-Internet problem 
+Internet problem
 
 --------------------------------------------------------------------------
 
@@ -349,7 +349,24 @@ SVG - https://developer.mozilla.org/en-US/docs/Web/SVG
 
 Folder path => /SVG/simple.svg
 
+--------------------------------------------------------------------------
+
+23/05/2020
+
+Git Commands - Check the docs folder
+Basic Linux Commands - Check the docs folder
+
+--------------------------------------------------------------------------
+
+24/05/2020
+
+MarkDown
+
+cheatsheet- https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+ref - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+online editor - https://stackedit.io/app#
 
 ===========================================================================
 Daily Observing task (Code pen link) and explaining it and watch one yt video (colt) and explain
 ===========================================================================
+
