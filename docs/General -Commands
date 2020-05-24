@@ -1,0 +1,22 @@
+ls            Shows files and directories in bare format without details like file types,sizes etc
+ls -l         shows file or directory, size, modified date and time, folder name..
+ls -a         list all files including the hidden files.
+ls -la        Shows all file or directory with details.
+clear         Clears the terminal screen.
+exit          Exits the shell where it is running currently.
+cd ~          To switch to the home directory from the current directory.
+cd /          To switch to the root directory
+cd .          The current directory.
+cd..          The parent directory of the current directory or one level up.
+
+cd <dirname>        Navigates to the specified directory from the current location.
+mkdir <dirname>     Creates new directory.
+rm <filename>       removes the files.
+rm -rf <foldername> Removes the directory and its content.
+cat <filename>      To show the content of the given file.input is filename.
+nano <filename>     Edit the file inside a terminal.
+ctrl + X              It promts to save the current file or not before exiting the terminal.
+
+
+
+
