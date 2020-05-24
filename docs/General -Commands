@@ -15,7 +15,7 @@ rm <filename>       removes the files.
 rm -rf <foldername> Removes the directory and its content.
 cat <filename>      To show the content of the given file.input is filename.
 nano <filename>     Edit the file inside a terminal.
-cntrl + X              It promts to save the current file or not before exiting the terminal.
+ctrl + X              It promts to save the current file or not before exiting the terminal.
 
 
 
