@@ -366,6 +366,31 @@ cheatsheet- https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 ref - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 online editor - https://stackedit.io/app#
 
+
+http://demo.auburnforest.com/html/bootcamp/bootcamp/index.html
+
+--------------------------------------------------------------------------
+
+26/05/2020
+
+table
+a
+select - option
+textarea
+link
+iframe
+html comments
+video
+audio
+HTML global attribute, "contenteditable"
+SVG
+canvas
+range
+<meter>
+aside
+
+recall all the above topics
+
 ===========================================================================
 Daily Observing task (Code pen link) and explaining it and watch one yt video (colt) and explain
 ===========================================================================
