@@ -2,9 +2,6 @@
 
 ![git](./assets/images/github.png)
 
-## Table of Content
-
----
 
 `git init` &nbsp; To start a new repository.
 
